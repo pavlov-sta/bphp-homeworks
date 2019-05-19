@@ -13,6 +13,10 @@
                     <li><a href="1.1-intro-and-branching/1.1.0">Задание 1.1.0</a></li>
                     <li><a href="1.1-intro-and-branching/1.1.1">Задание 1.1.1</a></li>
                     <li><a href="1.1-intro-and-branching/1.1.2">Задание 1.1.2</a></li>
+                    <li><a href="1.2-strings-and-forms/1.2.1-registration/form.html">Задание 1.2.1</a></li>
+                    <li><a href="1.2-strings-and-forms/1.2.2-name-standart/form.html">Задание 1.2.2</a></li>
+                    <li><a href="1.3-arrays-and-functions/1-places">Задание 1.3.1</a></li>
+                    <li><a href="1.3-arrays-and-functions/2-search">Задание 1.3.2</a></li>
                 </ul>
             </li>
         </ul>
